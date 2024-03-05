@@ -10,3 +10,6 @@ def displayBoard():
 def countBombs():
     print("Counting bombs ...")
     
+def playSweeper():
+    print("Playing ...")
+    
