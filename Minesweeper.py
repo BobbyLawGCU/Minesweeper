@@ -6,3 +6,7 @@ def genrateBoard():
     
 def displayBoard():
     print("Display board ...")
+    
+def countBombs():
+    print("Counting bombs ...")
+    
