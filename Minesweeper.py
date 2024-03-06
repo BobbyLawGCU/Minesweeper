@@ -13,3 +13,6 @@ def countBombs():
 def playSweeper():
     print("Playing ...")
     
+
+def checkBomb():
+    print("Check bombs ...")
